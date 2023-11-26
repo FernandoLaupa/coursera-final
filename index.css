@@ -234,7 +234,7 @@ footer .container{
     }
 
     #somos-mango .img-container{
-        background-image: url("/media/mercado.jpg");
+        background-image: url("./media/mercado.jpg");
         background-size: cover;
         background-position: center center;
         height: 500px;
